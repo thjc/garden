@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1080437"
-     inkscape:cx="345.20298"
-     inkscape:cy="490.5041"
+     inkscape:zoom="1.2571769"
+     inkscape:cx="329.70698"
+     inkscape:cy="487.20272"
      inkscape:window-width="1532"
      inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g67781" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs55763">
     <clipPath
@@ -180,7 +180,7 @@
        transform="translate(65.482774,41.099476)">
       <g
          id="g10188"
-         transform="matrix(1.0000015,0,0,1.0000015,-104.62847,-27.250438)">
+         transform="matrix(1.0000015,0,0,1.0000015,-101.98847,-29.071441)">
         <path
            d="m 157.462,131.169 v 11.64 h 52.04 l 32.087,4.884 -0.087,7.794 -109.74,0.322 v -24.64 h 25.7"
            style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -8099,6 +8099,47 @@
          style="stroke-width:0.264583px;font-size:2.11666667px"
          x="65.944786"
          y="109.50932">Grape Urbana</tspan></text>
+    <ellipse
+       style="fill:#008000;fill-opacity:0.626803;stroke:#f2ffff;stroke-width:0.35269"
+       id="path69179-3-3"
+       cx="167.50125"
+       cy="119.43418"
+       rx="1.7948228"
+       ry="1.7963827" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="171.33794"
+       y="119.62722"
+       id="text72146-6"><tspan
+         sodipodi:role="line"
+         id="tspan72144-7"
+         style="font-size:2.11667px;stroke-width:0.264583px"
+         x="171.33794"
+         y="119.62722">Psyche</tspan></text>
+    <ellipse
+       style="fill:#008000;fill-opacity:0.626803;stroke:#f2ffff;stroke-width:0.35269"
+       id="path69179-3-3-0"
+       cx="172.9471"
+       cy="135.94437"
+       rx="1.7948228"
+       ry="1.7963827" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.78378"
+       y="136.13741"
+       id="text72146-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan72144-7-3"
+         style="font-size:2.11667px;stroke-width:0.264583px"
+         x="176.78378"
+         y="136.13741">Silver</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583px"
+         x="176.78378"
+         y="138.78325"
+         id="tspan6548">Dollar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -8142,5 +8183,59 @@
          x="43.723015"
          y="115.50819"
          id="tspan73539">RS 3309</tspan></text>
+    <ellipse
+       style="fill:#008000;fill-opacity:0.626803;stroke:#f2ffff;stroke-width:0.35269"
+       id="path69179-3-5"
+       cx="163.78671"
+       cy="119.25851"
+       rx="1.7948228"
+       ry="1.7963827" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="162.86096"
+       y="116.80573"
+       id="text72146-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583px"
+         x="162.86096"
+         y="116.80573"
+         id="tspan3884">Ruby</tspan></text>
+    <ellipse
+       style="fill:#008000;fill-opacity:0.626803;stroke:#f2ffff;stroke-width:0.35269"
+       id="path69179-3-5-1"
+       cx="180.23259"
+       cy="107.13882"
+       rx="1.7948228"
+       ry="1.7963827" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="181.95264"
+       y="105.74436"
+       id="text72146-3-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583px"
+         x="181.95264"
+         y="105.74436"
+         id="tspan3884-7" /></text>
+    <ellipse
+       style="fill:#008000;fill-opacity:0.626803;stroke:#f2ffff;stroke-width:0.35269"
+       id="path69179-3-6"
+       cx="159.79953"
+       cy="119.29525"
+       rx="1.7948228"
+       ry="1.7963827" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="143.43715"
+       y="117.13792"
+       id="text72146-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;stroke-width:0.264583px"
+         x="143.43715"
+         y="117.13792"
+         id="tspan4888">Worriwood Gem</tspan></text>
   </g>
 </svg>
